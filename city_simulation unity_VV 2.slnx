@@ -1,0 +1,7 @@
+﻿<Solution>
+  <Project Path="Klak.Ndi.Runtime.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="Klak.Spout.Editor.csproj" />
+  <Project Path="Klak.Ndi.Editor.csproj" />
+  <Project Path="Klak.Spout.Runtime.csproj" />
+</Solution>
