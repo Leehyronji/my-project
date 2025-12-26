@@ -1,21 +1,21 @@
 # CAU-AnT-CAP1-산악회
 중앙대학교 예술공학부 캡스톤1 디자인 프로젝트 (2025)
 
-## 📌 Project Overview
+## Project Overview
 본 프로젝트는 **관객의 물리적 개입이 디지털 캐릭터의 감정과 서사에 실시간으로 반영되는 인터랙티브 미디어 아트**이다.  
 Unity 기반의 실시간 시뮬레이션 로직과 TouchDesigner의 프로젝션 맵핑을 결합하여,  
 정형 디스플레이를 넘어선 **비정형 전시 환경에서도 작동하는 몰입형 인터랙션 시스템**을 구현하였다.
 
 ---
 
-## 👥 Team
+## Team
 **팀명:** 산악회
 
 팀원 : 강현규(20212215), 김채영(20230032), 이현지(20231841), 조하은(20222678), 박준영(20226669)
 
 ---
 
-## 🎯 Project Goals
+## Project Goals
 
 ### Technical Goals
 - Unity 실시간 렌더링 화면을 **지연 없이 TouchDesigner로 송출**
@@ -29,7 +29,7 @@ Unity 기반의 실시간 시뮬레이션 로직과 TouchDesigner의 프로젝�
 
 ---
 
-## 🧠 Core Concept & Features
+## Core Concept & Features
 
 - **Real-time Pipeline**
   - Unity (Logic & Simulation)  
@@ -49,7 +49,7 @@ Unity 기반의 실시간 시뮬레이션 로직과 TouchDesigner의 프로젝�
 
 ---
 
-## ⚙️ System Architecture
+## System Architecture
 
 ### Unity
 #### 1. Dynamic NPC Interaction
@@ -85,7 +85,7 @@ Unity 기반의 실시간 시뮬레이션 로직과 TouchDesigner의 프로젝�
 
 ---
 
-## 🔌 Arduino Integration
+## Arduino Integration
 
 ### Hardware
 - Arduino Uno (R3)
@@ -107,7 +107,7 @@ Unity 기반의 실시간 시뮬레이션 로직과 TouchDesigner의 프로젝�
 
 ---
 
-## 🖥 Exhibition Setup
+## Exhibition Setup
 
 - **Main PC**
   - Unity + TouchDesigner
@@ -123,14 +123,14 @@ Unity 기반의 실시간 시뮬레이션 로직과 TouchDesigner의 프로젝�
 
 ---
 
-## 🚀 Future Work
+## Future Work
 - IR 센서 → 카메라 기반 객체 추적 확장
 - XR 환경으로 확장 가능한 인터랙션 구조
 - 멀티 디스플레이 전용 빌드 파이프라인 구축
 
 ---
 
-## 🧩 Significance
+## Significance
 본 프로젝트는 **현실 입력(Arduino)–가상 에이전트(NPC/차량)–멀티 디스플레이–외부 미디어 송출–엔딩 전역 제어**가  
 단일 파이프라인으로 통합된 **인터랙티브 디지털 트윈 시스템**의 구현 사례이다.
 
