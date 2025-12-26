@@ -1,4 +1,4 @@
-# CAU-AnT-CAP1-산악회
+# CAU-A&T-CAP1-산악회
 중앙대학교 예술공학부 캡스톤1 디자인 프로젝트 (2025)
 
 ## Project Overview
